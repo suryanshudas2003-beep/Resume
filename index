@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suryanshu | Professional Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">SURYANSHU</div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1>Suryanshu</h1>
+        <p>Innovator | Developer | Problem Solver</p>
+    </header>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>Detail-oriented professional with a passion for building efficient systems and elegant user experiences.</p>
+    </section>
+
+    <section id="skills" class="container">
+        <h2>Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-card">HTML5</div>
+            <div class="skill-card">CSS3</div>
+            <div class="skill-card">JavaScript</div>
+            <div class="skill-card">Git & GitHub</div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <p>Connect with me: <a href="mailto:email@example.com">Email</a> | <a href="#">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
